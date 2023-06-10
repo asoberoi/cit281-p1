@@ -1,0 +1,10 @@
+total 920
+-rw-r--r--@ 1 singh  staff   45210 Apr  7 14:41 lab-01-folders.png
+-rw-r--r--@ 1 singh  staff       0 Apr 13 16:25 lab-01-folders.txt
+-rw-r--r--  1 singh  staff     210 Apr 12 21:26 lab-01-node.js
+-rw-r--r--@ 1 singh  staff  204251 Apr  7 16:26 lab-01-node.png
+-rw-r--r--@ 1 singh  staff   14695 Apr 13 16:13 lab-01-shortcuts.txt.docx
+-rw-r--r--@ 1 singh  staff  194370 Apr  7 14:52 lab-01node.png .png
+
+
+Mine came a little funny so I re did it after the project hope you understand 
